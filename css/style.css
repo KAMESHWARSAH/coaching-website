@@ -1,0 +1,29 @@
+a {
+    color: white;
+}
+
+.nss {
+    color: white;
+    font-size: 25px;
+}
+
+.headpage {
+    background-origin: padding-box;
+    border-radius: 5px solid white;
+}
+
+.active {
+    border: 2px solid rgb(245, 244, 244);
+    padding: 10px;
+    border-radius: 25px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin: auto;
+    margin: 2px;
+}
+
+.responsive {
+    width: 100%;
+    width: 100%;
+    height: auto;
+}
